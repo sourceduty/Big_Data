@@ -28,6 +28,14 @@ Sourceduty, a forward-thinking company, is committed to leveraging the power of 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Data Performance](https://github.com/sourceduty/Data_Performance)
+<br>
+[Live Data Developer](https://github.com/sourceduty/Live_Data_Developer)
+<br>
+[Data Projects](https://github.com/sourceduty/Data_Projects)
+<br>
+[Data Architect](https://github.com/sourceduty/Data_Architect)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
