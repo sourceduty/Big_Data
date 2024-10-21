@@ -24,6 +24,10 @@ Sourceduty, a forward-thinking company, is committed to leveraging the power of 
 
 #
 
+> Alex: "*There is a shortage. Mankind's knowledge bases need more information, scientific advancements, and research than most individuals or groups can provide. This is not overwhelming to me. It’s disappointing because I don't see a solution or a point where this shortage will be solved in my lifetime.*"
+
+#
+
 ![Giant USB](https://github.com/user-attachments/assets/43a683d4-ac06-4178-b07e-39ab2d013729)
 
 #
