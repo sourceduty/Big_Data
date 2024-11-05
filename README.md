@@ -1,4 +1,4 @@
-![Bigger Data](https://github.com/user-attachments/assets/8b00c0bb-b9cc-43f1-897d-d1a86fbf9f5b)
+![Data Hoard](https://github.com/user-attachments/assets/03e97ddc-6413-4048-b79e-20b2ffa0af58)![Bigger Data](https://github.com/user-attachments/assets/8b00c0bb-b9cc-43f1-897d-d1a86fbf9f5b)
 
 > Massive volumes of structured and unstructured data generated from various sources.
 
@@ -31,6 +31,8 @@ Sourceduty, a forward-thinking company, is committed to leveraging the power of 
 #
 
 ![Giant USB](https://github.com/user-attachments/assets/43a683d4-ac06-4178-b07e-39ab2d013729)
+#
+![Drives](https://github.com/sourceduty/Nanuk_904/assets/123030236/c835d2dc-1bfd-4f20-8a8c-341bf2aa1e0b)
 
 #
 ### Related Links
@@ -44,6 +46,8 @@ Sourceduty, a forward-thinking company, is committed to leveraging the power of 
 [Data Projects](https://github.com/sourceduty/Data_Projects)
 <br>
 [Data Architect](https://github.com/sourceduty/Data_Architect)
+<br>
+[Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
