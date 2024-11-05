@@ -20,6 +20,8 @@ Sorting and organizing big data require sophisticated data processing frameworks
 #
 ### Future Plans for Big Data
 
+![Databombing](https://github.com/user-attachments/assets/ad4eae8d-c96d-455e-ae32-70233f7ba816)
+
 Sourceduty, a forward-thinking company, is committed to leveraging the power of big data to drive innovation and efficiency across various sectors. By committing to big data projects, Sourceduty aims to harness the vast potential of data analytics to deliver actionable insights and strategic advantages to its clients. These projects will involve the integration of advanced data processing frameworks and machine learning algorithms to analyze complex datasets, uncover hidden patterns, and make data-driven decisions. Through its expertise in managing and analyzing big data, Sourceduty will empower organizations to optimize their operations, enhance customer experiences, and predict market trends with greater accuracy.
 
 #
